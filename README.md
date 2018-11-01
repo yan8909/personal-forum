@@ -1,7 +1,9 @@
 # personal-forum
 
 This project is built by using [Laravel](https://laravel.com/)  
-The purpose of this project is to learn Laravel framwork by making a forum
+The purpose of this project is to learn Laravel framwork by making a forum  
+  
+![alt demo](./demo.gif)
 
 ## Main used package
 - [Laravel](https://laravel.com/)
